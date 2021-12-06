@@ -1,0 +1,5 @@
+*.pyc
+/django-allauth-env/
+db.sqlite3
+github-keys.txt
+/config/settings/dev.py
